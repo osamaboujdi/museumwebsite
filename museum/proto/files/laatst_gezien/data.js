@@ -1,0 +1,260 @@
+﻿$axure.loadCurrentPage({
+  "url":"laatst_gezien.html",
+  "generationDate":new Date(1401199224767.02),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"019ad4a96d5f4cb0961c3d5833620863",
+    "type":"Axure:Page",
+    "name":"laatst gezien",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"44ce5a3b6b0c4faf958387c49903315a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1380,
+              "height":600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb8ac80bf804410da19055220b2e79c6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1380,
+                  "height":600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/laatst_gezien/u0.png"}},
+{
+          "id":"4b71406dd60c4339a660fb5ccf7b8ff3",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":30},
+            "size":{
+              "width":190,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8958942ee4f2419d9db7561809967f73",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":30},
+                "size":{
+                  "width":190,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open bekijken in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"bekijken.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/laatst_gezien/u2.png"}},
+{
+          "id":"34fc7af18bfc43ffabe6d41034098c70",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":110},
+            "size":{
+              "width":190,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"495cf3f313724e68a5b9a921e61e2959",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":110},
+                "size":{
+                  "width":190,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/laatst_gezien/u2.png"}},
+{
+          "id":"d3fa5ce5af2a400cbf0cac2de02f3c4a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":190},
+            "size":{
+              "width":190,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c39490450db94db6ae6da397d1fe5de6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":190},
+                "size":{
+                  "width":190,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/laatst_gezien/u2.png"}},
+{
+          "id":"beb241e6d95e490f9b0f4032f8d1dee1",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":270},
+            "size":{
+              "width":190,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9af25d24f8f248cbbb20a53786e3e492",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":30,
+                  "y":270},
+                "size":{
+                  "width":190,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/laatst_gezien/u2.png"}},
+{
+          "id":"a854928a446145ca89f89ad5137ab028",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1270,
+              "y":565},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Home in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"home.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "44ce5a3b6b0c4faf958387c49903315a":{
+      "scriptId":"u0"},
+    "bb8ac80bf804410da19055220b2e79c6":{
+      "scriptId":"u1"},
+    "4b71406dd60c4339a660fb5ccf7b8ff3":{
+      "scriptId":"u2"},
+    "8958942ee4f2419d9db7561809967f73":{
+      "scriptId":"u3"},
+    "34fc7af18bfc43ffabe6d41034098c70":{
+      "scriptId":"u4"},
+    "495cf3f313724e68a5b9a921e61e2959":{
+      "scriptId":"u5"},
+    "d3fa5ce5af2a400cbf0cac2de02f3c4a":{
+      "scriptId":"u6"},
+    "c39490450db94db6ae6da397d1fe5de6":{
+      "scriptId":"u7"},
+    "beb241e6d95e490f9b0f4032f8d1dee1":{
+      "scriptId":"u8"},
+    "9af25d24f8f248cbbb20a53786e3e492":{
+      "scriptId":"u9"},
+    "a854928a446145ca89f89ad5137ab028":{
+      "scriptId":"u10"}}});

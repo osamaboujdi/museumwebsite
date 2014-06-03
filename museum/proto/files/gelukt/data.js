@@ -1,0 +1,209 @@
+﻿$axure.loadCurrentPage({
+  "url":"gelukt.html",
+  "generationDate":new Date(1401199224429.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"73fd1a945638408fb61a2d7a82d0b809",
+    "type":"Axure:Page",
+    "name":"gelukt",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0fc6dcdc0a624fcca0bc8cd09141e114",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":1350,
+              "height":670}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"67de94329f7647ac96c51968f7544e64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":1350,
+                  "height":670}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/gelukt/u0.png"}},
+{
+          "id":"d381cc57810a4800952affbf017e2fb2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":410,
+              "y":230},
+            "size":{
+              "width":470,
+              "height":230}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0f315a98fdeb4fcea319b2e8cd0e60ee",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":410,
+                  "y":230},
+                "size":{
+                  "width":470,
+                  "height":230}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/gelukt/u2.png"}},
+{
+          "id":"2aaaf74daece4f31904b40983ed00c56",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":420,
+              "y":240},
+            "size":{
+              "width":450,
+              "height":150}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1fe73e967b7542fba1872b2cd018cad1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":420,
+                  "y":240},
+                "size":{
+                  "width":450,
+                  "height":150}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"addb44e101c84c698971c22ec3041899",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":480,
+              "y":425},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Home in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"home.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"3b3ba01eb9174bf1a2708333372857f8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":680,
+              "y":425},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open bekijken in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"bekijken.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0fc6dcdc0a624fcca0bc8cd09141e114":{
+      "scriptId":"u0"},
+    "67de94329f7647ac96c51968f7544e64":{
+      "scriptId":"u1"},
+    "d381cc57810a4800952affbf017e2fb2":{
+      "scriptId":"u2"},
+    "0f315a98fdeb4fcea319b2e8cd0e60ee":{
+      "scriptId":"u3"},
+    "2aaaf74daece4f31904b40983ed00c56":{
+      "scriptId":"u4"},
+    "1fe73e967b7542fba1872b2cd018cad1":{
+      "scriptId":"u5"},
+    "addb44e101c84c698971c22ec3041899":{
+      "scriptId":"u6"},
+    "3b3ba01eb9174bf1a2708333372857f8":{
+      "scriptId":"u7"}}});
